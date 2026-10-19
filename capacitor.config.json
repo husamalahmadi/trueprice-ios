@@ -1,0 +1,9 @@
+{
+  "appId": "cash.trueprice.app",
+  "appName": "TruePrice",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.trueprice.cash",
+    "allowNavigation": ["trueprice.cash", "www.trueprice.cash"]
+  }
+}
