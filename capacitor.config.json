@@ -5,5 +5,8 @@
   "server": {
     "url": "https://www.trueprice.cash",
     "allowNavigation": ["trueprice.cash", "www.trueprice.cash"]
+  },
+  "ios": {
+    "contentInset": "always"
   }
 }
